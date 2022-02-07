@@ -1,0 +1,59 @@
+body{
+    background-image: url(https://media.istockphoto.com/videos/abstract-background-with-3d-rings-and-rotating-parts-clean-and-modern-video-id1248225100?b=1&k=20&m=1248225100&s=640x640&h=wnwajmerRHYeYf3JDAX83QTJhugkj8VYh0G7YuBWjNo=);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1{
+   width: 800px;
+   background-color: rgb(3, 2, 70);
+   margin:auto;
+   color: white;
+   padding: 10px 0px 10px 0px;
+   text-align: center;
+   border-radius: 10px 10px 0px 0px;
+}
+.form{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: rgb(209, 234, 250);
+    width: 800px;
+    margin:auto;
+    color: black;
+
+}
+.main{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    font-size: 20px;
+    cursor: pointer;
+    
+}
+.main:hover{
+    text-decoration: underline;
+    color: grey;
+}
+
+.input{
+    position: relative;
+    font-size: 16px;
+    padding:0 67% 0 3%;
+    border-radius: 10px 10px;
+    height: 25px;
+
+}
+
+button{
+    display: inline-block;
+   background-color: rgb(4, 4, 59);
+   display: inline block;
+   text-align: center;
+   border-radius: 12px;
+   border: 2px solid;
+   padding: 14px 50px;
+   outline: none; 
+   color: aliceblue;
+   cursor: pointer;
+ margin-left: 23%;
+   
+
+}
